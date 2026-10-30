@@ -6,10 +6,9 @@ I am seeking a Spring/Summer 2027 co-op as a business or financial analyst.
 
 ## Projects
 - **[Nike vs. Adidas Financial Performance Analysis](https://github.com/Lasi17/retail-financial-analytics-sql)**: SQLite database, SQL analysis, and Excel and Power BI dashboards comparing the two companies' 2025 financial performance.
-- **Campus Schedule & Navigation App** (in progress): a React Native app combining Drexel classes, clubs, and activities into one weekly schedule.
 
 ## Skills
-SQL · Excel · Power BI · Python · React Native · TypeScript
+SQL · Excel · Power BI · Python
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/lasya-hari) · lh3242@drexel.edu
