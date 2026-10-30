@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Lasya Hari
 
-<!--
-**Lasi17/Lasi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a sophomore at Drexel University's LeBow College of Business, majoring in Management Information Systems with a minor in Finance. I am interested in using data to analyze company performance and support business decisions.
 
-Here are some ideas to get you started:
+I am seeking a Spring/Summer 2027 co-op as a business or financial analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Nike vs. Adidas Financial Performance Analysis](https://github.com/Lasi17/retail-financial-analytics-sql)**: SQLite database, SQL analysis, and Excel and Power BI dashboards comparing the two companies' 2025 financial performance.
+- **Campus Schedule & Navigation App** (in progress): a React Native app combining Drexel classes, clubs, and activities into one weekly schedule.
+
+## Skills
+SQL · Excel · Power BI · Python · React Native · TypeScript
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/lasya-hari) · lh3242@drexel.edu
